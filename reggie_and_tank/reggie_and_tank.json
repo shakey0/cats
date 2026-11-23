@@ -1,0 +1,357 @@
+{
+    "albums": [
+        {
+            "name": "Reggie the Cute Kitten",
+            "photos": [
+                {
+                    "name": "cute_reggie_HZmpTct53ECp.webp",
+                    "order": 1
+                },
+                {
+                    "name": "reggie_kitten_4Gpv1R8qhrbK.webp",
+                    "order": 2
+                },
+                {
+                    "name": "reggie_with_toy_NhloW3csgbdc.webp",
+                    "order": 3
+                },
+                {
+                    "name": "beautiful_reggie_dIqnMhGsu00c.webp",
+                    "order": 4
+                },
+                {
+                    "name": "cute_reggie_JI1RSCFOgEBA.webp",
+                    "order": 5
+                },
+                {
+                    "name": "cute_reggie_svSpysXfi1DZ.webp",
+                    "order": 6
+                },
+                {
+                    "name": "cute_reggie_D35o3x5jnMVa.webp",
+                    "order": 7
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Reggie was a truly adorable little kitten. Everyone was extremely fond of him.",
+            "order": 1,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Adorable Tank's Arrival",
+            "photos": [
+                {
+                    "name": "tank_kitten_22v6Q9XlJpNW.webp",
+                    "order": 1
+                },
+                {
+                    "name": "tank_with_reggie_QWmKCfQ9xWJp.webp",
+                    "order": 2
+                },
+                {
+                    "name": "lovely_tank_gAdXK9EITotK.webp",
+                    "order": 3
+                },
+                {
+                    "name": "tank_kitten_btoJEk4cD8bb.webp",
+                    "order": 4
+                },
+                {
+                    "name": "tank_eating_with_reggie_RkSmh319eINp.webp",
+                    "order": 5
+                },
+                {
+                    "name": "tank_with_reggie_8RdsDAIqdSJY.webp",
+                    "order": 6
+                },
+                {
+                    "name": "tank_with_reggie_62saGJYpA6sP.webp",
+                    "order": 7
+                },
+                {
+                    "name": "tank_with_reggie_YDHKq2lAqRz9.webp",
+                    "order": 8
+                },
+                {
+                    "name": "tank_kitten_zkYE0VALJ6Qb.webp",
+                    "order": 9
+                },
+                {
+                    "name": "tank_kitten_HWXizfvkWXox.webp",
+                    "order": 10
+                },
+                {
+                    "name": "tank_with_reggie_AuY1bLtwdD85.webp",
+                    "order": 11
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Tank was a lovely little kitten. As can be seen in the photos, Reggie took great care of him.",
+            "order": 2,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Lovely Reggie",
+            "photos": [
+                {
+                    "name": "naughty_reggie_NvbxDn7slCgC.webp",
+                    "order": 1
+                },
+                {
+                    "name": "naughty_reggie_7EHndVWmemxy.webp",
+                    "order": 2
+                },
+                {
+                    "name": "naughty_reggie_Mcvat1mSbQOx.webp",
+                    "order": 3
+                },
+                {
+                    "name": "naughty_reggie_s7fKM5fN7zXa.webp",
+                    "order": 4
+                },
+                {
+                    "name": "naughty_reggie_e1zt8NG1yBvD.webp",
+                    "order": 5
+                },
+                {
+                    "name": "naughty_reggie_sbKE2LLJQp9L.webp",
+                    "order": 6
+                },
+                {
+                    "name": "naughty_reggie_6OC6JfuitmPg.webp",
+                    "order": 7
+                },
+                {
+                    "name": "naughty_reggie_2nTylezBKS7M.webp",
+                    "order": 8
+                },
+                {
+                    "name": "naughty_reggie_T3q75rjR40aH.webp",
+                    "order": 9
+                },
+                {
+                    "name": "naughty_reggie_h1syGPQVPz5k.webp",
+                    "order": 10
+                },
+                {
+                    "name": "naughty_reggie_lHgbGkLADWoa.webp",
+                    "order": 11
+                },
+                {
+                    "name": "naughty_reggie_ReSkTKogwUv3.webp",
+                    "order": 12
+                },
+                {
+                    "name": "naughty_reggie_qBD1jgI1nAYl.webp",
+                    "order": 13
+                },
+                {
+                    "name": "naughty_reggie_xtPbK45BheZW.webp",
+                    "order": 14
+                },
+                {
+                    "name": "naughty_reggie_v2kVaUcPtihD.webp",
+                    "order": 15
+                },
+                {
+                    "name": "naughty_reggie_GTJWwfCMEjkj.webp",
+                    "order": 16
+                },
+                {
+                    "name": "naughty_reggie_RRzJewZfW1xh.webp",
+                    "order": 17
+                },
+                {
+                    "name": "funny_reggie_CKjyTa3tDxCA.webp",
+                    "order": 18
+                },
+                {
+                    "name": "lovely_reggie_pe4uDMgrVziX.webp",
+                    "order": 19
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Reggie can be a naughty cat at time, but he's wonderful.",
+            "order": 3,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Lovely Tank",
+            "photos": [
+                {
+                    "name": "tank_sitting_iiKKFbQlm7jU.webp",
+                    "order": 1
+                },
+                {
+                    "name": "lovely_tank_yfZINGr8psFA.webp",
+                    "order": 2
+                },
+                {
+                    "name": "lovely_tank_3ndZjrxAf6o4.webp",
+                    "order": 3
+                },
+                {
+                    "name": "lovely_tank_PQYoqqrlPgL1.webp",
+                    "order": 4
+                },
+                {
+                    "name": "lovely_tank_w29S6GL1oU4i.webp",
+                    "order": 5
+                },
+                {
+                    "name": "lovely_tank_4wst9au3fiVr.webp",
+                    "order": 6
+                },
+                {
+                    "name": "lovely_tank_QimCy3DbaMuT.webp",
+                    "order": 7
+                },
+                {
+                    "name": "lovely_tank_4z4hxQtflbdM.webp",
+                    "order": 8
+                },
+                {
+                    "name": "lovely_tank_fR1bM57WwaiX.webp",
+                    "order": 9
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Tank is a rather calm cat and likes to simply chill most of the time, unless he wants to start something with Reggie.",
+            "order": 4,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Reggie & Tank",
+            "photos": [
+                {
+                    "name": "reggie_and_tank_Xj2qxmr7GAVJ.webp",
+                    "order": 1
+                },
+                {
+                    "name": "eating_time_6VM317iq3Oev.webp",
+                    "order": 2
+                },
+                {
+                    "name": "lazy_days_liutMujDtMkX.webp",
+                    "order": 3
+                },
+                {
+                    "name": "reggie_and_tank_wBctrnItnt9T.webp",
+                    "order": 4
+                },
+                {
+                    "name": "reggie_and_tank_NWJih1T9HX2K.webp",
+                    "order": 5
+                },
+                {
+                    "name": "reggie_and_tank_hQO0eFivjvUo.webp",
+                    "order": 6
+                },
+                {
+                    "name": "reggie_and_tank_YAxlAavziqWq.webp",
+                    "order": 7
+                },
+                {
+                    "name": "reggie_and_tank_QJxw5YQlb7rC.webp",
+                    "order": 8
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Reggie and Tank do love each other.",
+            "order": 5,
+            "updated_at": "2024-12-16 12:00:00"
+        }
+    ],
+    "born_on": "2017-09-07,2022-04-11",
+    "colors": {
+        "color_1": "black",
+        "color_1_pattern": "white",
+        "color_1_pattern_percent": 20,
+        "color_2": "light_blonde",
+        "color_2_pattern": "light_gray",
+        "color_2_pattern_percent": 10,
+        "white_percent": 0
+    },
+    "created_at": "2024-12-16 12:00:00",
+    "first_name": "Reggie & Tank",
+    "known_as": "Ruthless Reggie and Tenacious Tank",
+    "last_name": "",
+    "likes_eating": "Absolutely everything",
+    "likes_to": "Con one of their owners into thinking they haven't yet been fed by meowing so incredibly persistently and dramatically that the other owner will cast serious doubts upon the owner who did actually feed them - all of this to get an extra meal.",
+    "middle_name": "",
+    "passed_in": null,
+    "profile_photo": "reggie_and_tank_wBctrnItnt9T.webp",
+    "story": "As winter of 2017 struck, the lovely and sweet Reggie was adopted. He was a lovely and playful little kitten, and more than anything loved a good meal. Growing up alone as an indoor cat, Reggie's owners knew he needed company, so in the summer of 2022 they brought Tank into the scene. Reggie was so happy to take care of Tank and raise him as his own. However, as Tank grew into a sizeable adult cat, Reggie became keen to assert his dominance - this can be seen through the videos in which Reggie concocts various daring wrestling moves in order to show tank who's boss. All in all though, they are incredibly fond of each other and live very happily together.",
+    "updated_at": "2024-12-16 12:00:00",
+    "ver": "c8ZLM2b501",
+    "videos": [
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "Bodyslam 1000 by Reggie",
+            "order": 1,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "reggie_move_1.mp4"
+        },
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "Rolling Slam by Reggie",
+            "order": 2,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "reggie_move_2.mp4"
+        },
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "Tank's Revenge",
+            "order": 3,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "tank_move_1.mp4"
+        },
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "Treat of a Lifetime",
+            "order": 4,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "feeding_time.mp4"
+        },
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "Make Yourself Seriously Comfortable",
+            "order": 5,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "tank_sitting.mp4"
+        },
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "I'm bored. Play with me.",
+            "order": 6,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "playful_tank.mp4"
+        },
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "Reggie Licking Tank Clean",
+            "order": 7,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "reggie_licking_tank.mp4"
+        },
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "What's up with this fish?!",
+            "order": 8,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "tank_fish_toy.mp4"
+        },
+        {
+            "created_at": "2024-12-16 12:00:00",
+            "description": "I guess I'll give it a go.",
+            "order": 9,
+            "updated_at": "2024-12-16 12:00:00",
+            "video": "reggie_playing_with_toy.mp4"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "photos": [
+        {
+            "name": "wilco_on_chair_bTgPX7gD97RP.webp",
+            "order": 1
+        },
+        {
+            "name": "serious_wilco_rORndcup44ic.webp",
+            "order": 2
+        },
+        {
+            "name": "beautiful_wilco_ICDyJRKvYcrv.webp",
+            "order": 3
+        },
+        {
+            "name": "lovely_wilco_KaYWnXjnGvoQ.webp",
+            "order": 4
+        },
+        {
+            "name": "nice_wilco_u8rmofPdlwBO.webp",
+            "order": 5
+        },
+        {
+            "name": "pretty_wilco_kQs36G9BeJKM.webp",
+            "order": 6
+        },
+        {
+            "name": "staring_wilco_UfYLRk3oD1h6.webp",
+            "order": 7
+        },
+        {
+            "name": "funny_wilco_PQFGqzqADLGj.webp",
+            "order": 8
+        },
+        {
+            "name": "evil_wilco_X4XuhQ8HtGzV.webp",
+            "order": 9
+        },
+        {
+            "name": "happy_wilco_baZktS50fWAf.webp",
+            "order": 10
+        },
+        {
+            "name": "relaxing_wilco_53qrAvmu5UZE.webp",
+            "order": 11
+        }
+    ],
+    "born_on": "1984-04-28",
+    "colors": {
+        "color_1": "gray",
+        "color_1_pattern": "black",
+        "color_1_pattern_percent": 30,
+        "color_2": null,
+        "color_2_pattern": null,
+        "color_2_pattern_percent": 0,
+        "white_percent": 15
+    },
+    "created_at": "2024-12-16 12:00:00",
+    "first_name": "William",
+    "known_as": "Wilco",
+    "last_name": "Shakespeare",
+    "likes_eating": "Chicken, turkey, and leftovers from the bin",
+    "likes_to": "Sit in various places in which she would very much claim as her own. Anybody who dared to disturb her would be met with a severe warning hiss, and if they got any closer, a nasty scratch followed by an unforgettable spit - this was all regularly performed on the front porch of the Shakespeare household on unsuspecting passersby, including the postman.",
+    "middle_name": "",
+    "passed_in": "2002-12-15",
+    "profile_photo": "evil_wilco_X4XuhQ8HtGzV.webp",
+    "story": "Wilco was actually a very lovely cat deep down, and she showed great loyalty to anyone she trusted. She was a highly intelligent cat and incredibly powerful. Put leftovers from a roast chicken dinner in the bin and she'd have that bin on its side in a matter of no time. She was also very smart at waking people up in the morning, where she would jump on shelves or beside cabinets and knock things off to make a loud noise (she wasn't concerned about breaking anything of value). At the age of 15 she came to live with the Shakespeare family. At first she absolutely despised their 2 children, but over time she quickly grew to love them, going so far as to routinely sleep on one of their beds every night. She was a character and a half, and is very much remembered as a true legend of a cat.",
+    "updated_at": "2024-12-16 12:00:00",
+    "ver": "la22nIZ7so",
+    "videos": [
+        {
+            "created_at": "2025-11-05 19:43:15",
+            "description": "Wilco being herself and ready to maul the camera person if they move any closer",
+            "order": 1,
+            "updated_at": "2025-11-05 19:43:15",
+            "video": "wilco_being_wilco__FzlPb5SUwN1M.mp4"
+        }
+    ]
+}

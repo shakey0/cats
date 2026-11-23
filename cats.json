@@ -1,0 +1,40 @@
+{
+    "cats": [
+        {
+            "name": "Sophie",
+            "slug": "sophie",
+            "profile_photo": "sophie_sitting_on_sofa__9tuKYqCUkQk8.webp",
+            "order": 1
+        },
+        {
+            "name": "Amber",
+            "slug": "amber",
+            "profile_photo": "lovely_amber_nxG8j1aBBzSN.webp",
+            "order": 2
+        },
+        {
+            "name": "Reggie & Tank",
+            "slug": "reggie_and_tank",
+            "profile_photo": "reggie_and_tank_wBctrnItnt9T.webp",
+            "order": 3
+        },
+        {
+            "name": "Brandy",
+            "slug": "brandy",
+            "profile_photo": "brandy_in_garden_aTZTYc2p04to.webp",
+            "order": 4
+        },
+        {
+            "name": "William Shakespeare",
+            "slug": "wilco",
+            "profile_photo": "evil_wilco_X4XuhQ8HtGzV.webp",
+            "order": 5
+        },
+        {
+            "name": "Blevins",
+            "slug": "blevins",
+            "profile_photo": "lovely_blevins_lzXE19RqtibK.webp",
+            "order": 6
+        }
+    ]
+}

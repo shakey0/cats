@@ -1,0 +1,369 @@
+{
+    "albums": [
+        {
+            "name": "Lovely Amber",
+            "photos": [
+                {
+                    "name": "lovely_amber_kuLnNAzv9oMw.webp",
+                    "order": 1
+                },
+                {
+                    "name": "lovely_amber_Wwe7kxWv7h31.webp",
+                    "order": 2
+                },
+                {
+                    "name": "lovely_amber_COsSkia70thT.webp",
+                    "order": 3
+                },
+                {
+                    "name": "lovely_amber_eWTcBZhhcNqA.webp",
+                    "order": 4
+                },
+                {
+                    "name": "lovely_amber_qMjJiiqmpFww.webp",
+                    "order": 5
+                },
+                {
+                    "name": "lovely_amber_tG0FTVdVMLN3.webp",
+                    "order": 6
+                },
+                {
+                    "name": "lovely_amber_LIyl4a12tp90.webp",
+                    "order": 7
+                },
+                {
+                    "name": "lovely_amber_u89wZrLwGMNl.webp",
+                    "order": 8
+                },
+                {
+                    "name": "lovely_amber_pRzZBDI9lskP.webp",
+                    "order": 9
+                },
+                {
+                    "name": "lovely_amber_TRwVQtWIn65C.webp",
+                    "order": 10
+                },
+                {
+                    "name": "lovely_amber_nyUkkqcfgPER.webp",
+                    "order": 11
+                },
+                {
+                    "name": "lovely_amber_tv3mAjrGwz5r.webp",
+                    "order": 12
+                },
+                {
+                    "name": "lovely_amber_DydMesmYhUKx.webp",
+                    "order": 13
+                },
+                {
+                    "name": "lovely_amber_nxG8j1aBBzSN.webp",
+                    "order": 14
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Amber being lovely and looking beautiful as always. She loved to calming sit in various places and watch the world go by.",
+            "order": 1,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Incredibly Strange Places to Sit",
+            "photos": [
+                {
+                    "name": "amber_brick_wall_FR4j50ObzvJQ.webp",
+                    "order": 1
+                },
+                {
+                    "name": "amber_towels_kp3iyPjvLmU2.webp",
+                    "order": 2
+                },
+                {
+                    "name": "amber_garage_rOel3Z8scGBU.webp",
+                    "order": 3
+                },
+                {
+                    "name": "amber_brick_wall_PZlBWHKxw0Ho.webp",
+                    "order": 4
+                },
+                {
+                    "name": "amber_messy_desk_BFw4xVORu3wG.webp",
+                    "order": 5
+                },
+                {
+                    "name": "amber_sandbox_f2Ik6VWnRWIE.webp",
+                    "order": 6
+                },
+                {
+                    "name": "amber_brick_wall_hey1fyz5EDkU.webp",
+                    "order": 7
+                },
+                {
+                    "name": "amber_tinsel_HmMcJpjBxmAo.webp",
+                    "order": 8
+                },
+                {
+                    "name": "amber_step_4kOon6wzInqQ.webp",
+                    "order": 9
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Amber sitting in some of the most unimaginable places. She loved to sit in the most awkward and strange places, but always looked comfortable and content.",
+            "order": 2,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Amber Playing with LEGO",
+            "photos": [
+                {
+                    "name": "amber_lego_house_AHeYjK78TbZE.webp",
+                    "order": 1
+                },
+                {
+                    "name": "amber_lego_TP5VEi0TdS9F.webp",
+                    "order": 2
+                },
+                {
+                    "name": "amber_lego_I9gwCBJvKPVY.webp",
+                    "order": 3
+                },
+                {
+                    "name": "amber_lego_dsAJKeHmrM6S.webp",
+                    "order": 4
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Alright, so Amber didn't actually play with LEGO, but she did sit on it. She loved to sit on anything and everything, and LEGO was no exception.",
+            "order": 3,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "A Kitten Named Amber",
+            "photos": [
+                {
+                    "name": "amber_kitten_5DhK0AWo718z.webp",
+                    "order": 1
+                },
+                {
+                    "name": "amber_kitten_JXMdNOM37evg.webp",
+                    "order": 2
+                },
+                {
+                    "name": "amber_kitten_8sXzWO4rDpZK.webp",
+                    "order": 3
+                },
+                {
+                    "name": "amber_kitten_xUUUMFTdsdtw.webp",
+                    "order": 4
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Amber as a young kitten. She certainly loved her younger days and was always up to mischief.",
+            "order": 4,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Teenage Amber",
+            "photos": [
+                {
+                    "name": "teenage_amber_uvo4cjaUJgXK.webp",
+                    "order": 1
+                },
+                {
+                    "name": "teenage_amber_4PQnERLiF02T.webp",
+                    "order": 2
+                },
+                {
+                    "name": "teenage_amber_S9hrKTlmEMWq.webp",
+                    "order": 3
+                },
+                {
+                    "name": "teenage_amber_m9JlOaAaHRSf.webp",
+                    "order": 4
+                },
+                {
+                    "name": "teenage_amber_4CklAcius5vl.webp",
+                    "order": 5
+                },
+                {
+                    "name": "teenage_amber_rvod0XiqnlZw.webp",
+                    "order": 6
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Amber as a teenager. Probably up to no good.",
+            "order": 5,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Amber in the Garden",
+            "photos": [
+                {
+                    "name": "amber_garden_haVVSl97nOAg.webp",
+                    "order": 1
+                },
+                {
+                    "name": "amber_garden_2Kx2y6lprW5f.webp",
+                    "order": 2
+                },
+                {
+                    "name": "amber_garden_oMb8hcl7F3ej.webp",
+                    "order": 3
+                },
+                {
+                    "name": "amber_garden_Xt7nnlRdRzIx.webp",
+                    "order": 4
+                },
+                {
+                    "name": "amber_garden_7kPBcGyiIhre.webp",
+                    "order": 5
+                },
+                {
+                    "name": "amber_garden_9yOi75OiYJZf.webp",
+                    "order": 6
+                },
+                {
+                    "name": "amber_garden_10FhafGrjHx9.webp",
+                    "order": 7
+                },
+                {
+                    "name": "amber_garden_Vf5WQtnhWMCq.webp",
+                    "order": 8
+                },
+                {
+                    "name": "amber_garden_qd0ZOIw3IvLn.webp",
+                    "order": 9
+                },
+                {
+                    "name": "amber_garden_J9KmaltfVIau.webp",
+                    "order": 10
+                },
+                {
+                    "name": "amber_garden_zc3oz0xsnqV3.webp",
+                    "order": 11
+                },
+                {
+                    "name": "amber_garden_T6BVKOOlaGPx.webp",
+                    "order": 12
+                },
+                {
+                    "name": "amber_garden_BD9DZspdRW5L.webp",
+                    "order": 13
+                },
+                {
+                    "name": "amber_garden_0rqPIQmeBuwY.webp",
+                    "order": 14
+                },
+                {
+                    "name": "amber_garden_Yva2LiO2epfT.webp",
+                    "order": 15
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "There's nothing Amber loved more than sitting in the garden. It was her palace garden. She was also a great hunter and would often bring back 'presents' for the family, sometimes putting them under the tree at Christmas.",
+            "order": 6,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Amber Relaxing",
+            "photos": [
+                {
+                    "name": "lovely_amber_vEZKTDB5US1z.webp",
+                    "order": 1
+                },
+                {
+                    "name": "lovely_amber_nI6Ud6sekjRE.webp",
+                    "order": 2
+                },
+                {
+                    "name": "lovely_amber_aqXrbR6OJ08e.webp",
+                    "order": 3
+                },
+                {
+                    "name": "lovely_amber_zMY2WR2cgVdd.webp",
+                    "order": 4
+                },
+                {
+                    "name": "lovely_amber_BLbsRRHGy07C.webp",
+                    "order": 5
+                },
+                {
+                    "name": "lovely_amber_1lOuvAHtNJTO.webp",
+                    "order": 6
+                },
+                {
+                    "name": "lovely_amber_MYYGsbLlfySS.webp",
+                    "order": 7
+                },
+                {
+                    "name": "lovely_amber_AZLNLRCLBL91.webp",
+                    "order": 8
+                },
+                {
+                    "name": "lovely_amber_R3eZ4V7PzU1M.webp",
+                    "order": 9
+                },
+                {
+                    "name": "lovely_amber_nVmkdE5cLzsq.webp",
+                    "order": 10
+                },
+                {
+                    "name": "lovely_amber_cyZOG2DHOXB6.webp",
+                    "order": 11
+                },
+                {
+                    "name": "lovely_amber_TIclmobOPopN.webp",
+                    "order": 12
+                },
+                {
+                    "name": "lovely_amber_T8T7a5JDTsQT.webp",
+                    "order": 13
+                },
+                {
+                    "name": "lovely_amber_vJ8GnN8kat5N.webp",
+                    "order": 14
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Amber loved to relax in various places around the house. Such a happy cat she was.",
+            "order": 7,
+            "updated_at": "2024-12-16 12:00:00"
+        }
+    ],
+    "born_on": "1991-04-10",
+    "colors": {
+        "color_1": "ginger",
+        "color_1_pattern": "dark_ginger",
+        "color_1_pattern_percent": 40,
+        "color_2": null,
+        "color_2_pattern": null,
+        "color_2_pattern_percent": 0,
+        "white_percent": 20
+    },
+    "created_at": "2024-12-16 12:00:00",
+    "first_name": "Amber",
+    "known_as": "Lovely and Very Tolerant Kitty",
+    "last_name": "Shakespeare",
+    "likes_eating": "Tuna, Go-Cat",
+    "likes_to": "Sit in the widest variety of places imaginable. One of the funniest was when she sat facing a brick wall, probably for a good 30 minutes. She also thoroughly enjoyed sharing office chairs with her family members.",
+    "middle_name": "",
+    "passed_in": "2010-05-14",
+    "profile_photo": "lovely_amber_nxG8j1aBBzSN.webp",
+    "story": "As a young rescued kitten, Amber was quickly adopted by the Shakespeares as their third child and only daughter. Growing up with 2 young children from such a young age herself, she developed incredible tolerance and learnt to deal with all kinds of annoyances and tricks pulled against her. One classic example is when the Shakespeares' 2 young children built a K'NEX cat cage around her, and what did she do? Well, despite the clear build up of immense agitation perceived from the look on her face, she sat their calmly while the children constructed the cage piece by piece until she was sufficiently trapped in the rather tight and claustrophobic structure. She was an remarkable cat and one of the most loving pets anyone could ever have. She will forever be remembered as a true legend and gem of all cats and pets alike.",
+    "updated_at": "2024-12-16 12:00:00",
+    "ver": "SKnh3Cu2L3",
+    "videos": [
+        {
+            "created_at": "2025-11-05 19:43:15",
+            "description": "Amber rubbing herself against a blue box and being very proud of doing so",
+            "order": 1,
+            "updated_at": "2025-11-05 19:43:15",
+            "video": "amber_rubbing_box__3RIn3Xxw5mQo.mp4"
+        }
+    ]
+}

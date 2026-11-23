@@ -1,0 +1,167 @@
+{
+    "albums": [
+        {
+            "name": "Magnificent Brandy",
+            "photos": [
+                {
+                    "name": "brandy_on_chair_IUg2HwD7bFi9.webp",
+                    "order": 5
+                },
+                {
+                    "name": "brandy_in_garden_4RC3n5wohkde.webp",
+                    "order": 2
+                },
+                {
+                    "name": "brandy_in_garden_aTZTYc2p04to.webp",
+                    "order": 3
+                },
+                {
+                    "name": "brandy_in_garden_SaduVGmr9GD8.webp",
+                    "order": 4
+                },
+                {
+                    "name": "brandy_in_garden_RYif93r6DO5P.webp",
+                    "order": 1
+                },
+                {
+                    "name": "brandy_in_garden_8OxqficEotJQ.webp",
+                    "order": 6
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "If there was one thing Brandy loved doing, it was sitting somewhere and making herself look part of the scenery. She certainly was a very pretty cat.",
+            "order": 1,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Young Brandy",
+            "photos": [
+                {
+                    "name": "brandy_in_garden_Ev0gPJV90TUo.webp",
+                    "order": 6
+                },
+                {
+                    "name": "brandy_under_tree_cojEIiK76Eyj.webp",
+                    "order": 2
+                },
+                {
+                    "name": "brandy_kitten_kVP6raVPrKwh.webp",
+                    "order": 3
+                },
+                {
+                    "name": "brandy_with_string_UALmydTKg58I.webp",
+                    "order": 4
+                },
+                {
+                    "name": "brandy_tree_qtrE04PbdEzf.webp",
+                    "order": 5
+                },
+                {
+                    "name": "brandy_umbrella_YRCTdxfoxkYt.webp",
+                    "order": 1
+                },
+                {
+                    "name": "brandy_kitten_NYpQH3RDnuzg.webp",
+                    "order": 7
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Brandy was a lovely and playful cat during her young and teenage years.",
+            "order": 2,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Lovely Brandy",
+            "photos": [
+                {
+                    "name": "brandy_sitting_nLE0jtoBV48d.webp",
+                    "order": 1
+                },
+                {
+                    "name": "brandy_in_kitchen_TcHBXd6E9UgD.webp",
+                    "order": 2
+                },
+                {
+                    "name": "brandy_with_wilco_qmK7OLfzdmDk.webp",
+                    "order": 3
+                },
+                {
+                    "name": "brandy_in_garden_jr7HnuT1iRcS.webp",
+                    "order": 4
+                },
+                {
+                    "name": "lovely_brandy_hUShFrC2XoVI.webp",
+                    "order": 5
+                },
+                {
+                    "name": "brandy_on_chair_6MqXj4WLkJtD.webp",
+                    "order": 6
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Brandy was a very lovely and very normal cat.",
+            "order": 3,
+            "updated_at": "2024-12-16 12:00:00"
+        },
+        {
+            "name": "Brandy in Rather Unusual Places",
+            "photos": [
+                {
+                    "name": "brandy_in_kitchen_qC9hzcEIqQin.webp",
+                    "order": 4
+                },
+                {
+                    "name": "brandy_on_bath_O2TNMajGmpPB.webp",
+                    "order": 2
+                },
+                {
+                    "name": "brandy_in_cot_w33lSTaBVEEO.webp",
+                    "order": 3
+                },
+                {
+                    "name": "brandy_in_mess_P9ewC9IWRbes.webp",
+                    "order": 1
+                },
+                {
+                    "name": "brandy_in_bath_ALufn5E747go.webp",
+                    "order": 5
+                },
+                {
+                    "name": "brandy_on_toilet_GKLrNDWnWakd.webp",
+                    "order": 6
+                }
+            ],
+            "created_at": "2024-12-16 12:00:00",
+            "date": null,
+            "description": "Just like many cats, Brandy loved exploring and sitting in all kinds of strange places - the bathroom may well have been one of her favourites.",
+            "order": 4,
+            "updated_at": "2024-12-16 12:00:00"
+        }
+    ],
+    "born_on": "1984-04-28",
+    "colors": {
+        "color_1": "ginger",
+        "color_1_pattern": "dark_ginger",
+        "color_1_pattern_percent": 50,
+        "color_2": null,
+        "color_2_pattern": null,
+        "color_2_pattern_percent": 0,
+        "white_percent": 0
+    },
+    "created_at": "2024-12-16 12:00:00",
+    "first_name": "Brandy",
+    "known_as": "Magnificent Brandy",
+    "last_name": "Shakespeare",
+    "likes_eating": "Chicken, particularly from her owner's dinner plates",
+    "likes_to": "Spend her time chilling out in practically every kind of place imaginable.",
+    "middle_name": "",
+    "passed_in": "1991-07-25",
+    "profile_photo": "brandy_in_garden_aTZTYc2p04to.webp",
+    "story": "Brandy was adopted by the Shakespeare family in June of 1984. She was a very lovely cat and was notable for being a great eater. One of her favourite pastimes was stealing food from people's dinner plates, particularly roast chicken, in which she would swiftly grab and immediately take outside before anyone could catch her. Brandy was a dearly loved cat, and is well remembered for not just her beautiful appearance but also her great character and calm temperament.",
+    "updated_at": "2024-12-16 12:00:00",
+    "ver": "wh8HYGap3m",
+    "videos": []
+}

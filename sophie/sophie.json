@@ -534,7 +534,7 @@
             ],
             "created_at": "2025-11-05 19:29:56",
             "date": null,
-            "description": "Sophie was too smart for most toys, but ones with cat nip in them, now that's a different story!",
+            "description": "Sophie was too smart for most toys, but ones with catnip in them, now that's a different story!",
             "order": 17,
             "updated_at": "2025-11-05 19:29:56"
         },
@@ -1049,7 +1049,7 @@
     "first_name": "Sophie",
     "known_as": "Lovely Sophie",
     "last_name": "Shakespeare",
-    "likes_eating": "Lick-e-lix, Dreamies",
+    "likes_eating": "Lick-e-Lix, Dreamies",
     "likes_to": "Wake people up at 5am every morning by performing a carpet scratching concert in the landing and meowing like an absolutely mental cat.",
     "middle_name": "Larna",
     "obituary": [
